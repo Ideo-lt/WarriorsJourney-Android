@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <id>1</id>
+        <name>Amulet Of Recovery</name>
+        <description>This amulet gives the wearer all the basic stat boosts for faster recovery.</description>
+    	<price>4000</price>
+    	<bonusSTR>0</bonusSTR>
+    	<bonusSTA>2</bonusSTA>
+    	<bonusDEX>2</bonusDEX>
+    	<bonusAGI>0</bonusAGI>
+    	<bonusCON>0</bonusCON>
+    	<bonusINT>2</bonusINT>
+    	<effectType>0</effectType>
+    </item>
+    <item>
+        <id>2</id>
+        <name>Amulet of Damage</name>
+        <description>This amulet gives the wearer all the basic stat boosts to deal and avoid more damage.</description>
+    	<price>4000</price>
+    	<bonusSTR>2</bonusSTR>
+    	<bonusSTA>0</bonusSTA>
+    	<bonusDEX>0</bonusDEX>
+    	<bonusAGI>2</bonusAGI>
+    	<bonusCON>2</bonusCON>
+    	<bonusINT>0</bonusINT>
+    	<effectType>0</effectType>
+    </item>
+    <item>
+        <id>3</id>
+        <name>Amulet of Recovery II</name>
+        <description>An enchanted verson of the basic recovery amulet.</description>
+    	<price>8000</price>
+    	<bonusSTR>0</bonusSTR>
+    	<bonusSTA>4</bonusSTA>
+    	<bonusDEX>4</bonusDEX>
+    	<bonusAGI>0</bonusAGI>
+    	<bonusCON>0</bonusCON>
+    	<bonusINT>4</bonusINT>
+    	<effectType>0</effectType>
+    </item>
+    <item>
+        <id>4</id>
+        <name>Amulet of Damage II</name>
+        <description>An enchanted verson of the basic damage amulet.</description>
+    	<price>8000</price>
+    	<bonusSTR>4</bonusSTR>
+    	<bonusSTA>0</bonusSTA>
+    	<bonusDEX>0</bonusDEX>
+    	<bonusAGI>4</bonusAGI>
+    	<bonusCON>4</bonusCON>
+    	<bonusINT>0</bonusINT>
+    	<effectType>0</effectType>
+    </item>
+    <item>
+        <id>5</id>
+        <name>Amulet of Fool's Hope</name>
+        <description>Gives a 1 out of 4 chance that you or your oponent will respawn from death.</description>
+    	<price>15000</price>
+    	<bonusSTR>0</bonusSTR>
+    	<bonusSTA>0</bonusSTA>
+    	<bonusDEX>0</bonusDEX>
+    	<bonusAGI>0</bonusAGI>
+    	<bonusCON>0</bonusCON>
+    	<bonusINT>0</bonusINT>
+    	<effectType>1</effectType>
+    </item>
+    <item>
+        <id>6</id>
+        <name>Amulet of Fire Enchantment</name>
+        <description>Gives a fire damage boost to your projectiles [Burns the enemy on contact (no aditional effect on tiles)].</description>
+    	<price>13500</price>
+    	<bonusSTR>3</bonusSTR>
+    	<bonusSTA>0</bonusSTA>
+    	<bonusDEX>0</bonusDEX>
+    	<bonusAGI>3</bonusAGI>
+    	<bonusCON>3</bonusCON>
+    	<bonusINT>0</bonusINT>
+    	<effectType>2</effectType>
+    </item>
+    <item>
+        <id>7</id>
+        <name>Amulet of Ice Enchantment</name>
+        <description>Gives a frost damage boost to your projectiles [Stuns the enemy for 0.5s on contact(no aditional effect on tiles)].</description>
+    	<price>13500</price>
+    	<bonusSTR>0</bonusSTR>
+    	<bonusSTA>3</bonusSTA>
+    	<bonusDEX>3</bonusDEX>
+    	<bonusAGI>0</bonusAGI>
+    	<bonusCON>0</bonusCON>
+    	<bonusINT>3</bonusINT>
+    	<effectType>3</effectType>
+    </item>
+    <item>
+        <id>8</id>
+        <name>Ring of Stat Boost</name>
+        <description>An old ring that gives you a small stat boost.</description>
+    	<price>3000</price>
+    	<bonusSTR>1</bonusSTR>
+    	<bonusSTA>1</bonusSTA>
+    	<bonusDEX>1</bonusDEX>
+    	<bonusAGI>1</bonusAGI>
+    	<bonusCON>1</bonusCON>
+    	<bonusINT>1</bonusINT>
+    	<effectType>0</effectType>
+    </item>
+    <item>
+        <id>9</id>
+        <name>Ring of Stat Boost II</name>
+        <description>An enchanced ring that boosts all of you stats.</description>
+    	<price>6000</price>
+    	<bonusSTR>2</bonusSTR>
+    	<bonusSTA>2</bonusSTA>
+    	<bonusDEX>2</bonusDEX>
+    	<bonusAGI>2</bonusAGI>
+    	<bonusCON>2</bonusCON>
+    	<bonusINT>2</bonusINT>
+    	<effectType>0</effectType>
+    </item>
+    <item>
+        <id>10</id>
+        <name>Ring of Fire Negation</name>
+        <description>Gives the wearer a fire enchantment imunity [No burn damage, if fire is used on You].</description>
+    	<price>8500</price>
+    	<bonusSTR>1</bonusSTR>
+    	<bonusSTA>0</bonusSTA>
+    	<bonusDEX>1</bonusDEX>
+    	<bonusAGI>1</bonusAGI>
+    	<bonusCON>0</bonusCON>
+    	<bonusINT>0</bonusINT>
+    	<effectType>4</effectType>
+    </item>
+    <item>
+        <id>11</id>
+        <name>Ring of Ice Negation</name>
+        <description>Gives the wearer an ice enchantment imunity [No stun, if ice is used on You].</description>
+    	<price>8500</price>
+    	<bonusSTR>0</bonusSTR>
+    	<bonusSTA>1</bonusSTA>
+    	<bonusDEX>0</bonusDEX>
+    	<bonusAGI>0</bonusAGI>
+    	<bonusCON>1</bonusCON>
+    	<bonusINT>1</bonusINT>
+    	<effectType>5</effectType>
+    </item>
+    <item>
+    	<id>12</id>
+        <name>Ring of Insanity</name>
+        <description>There is a 1 out of 4 chance that eather you or your oponent will die when the figth will start.</description>
+    	<price>10000</price>
+    	<bonusSTR>0</bonusSTR>
+    	<bonusSTA>0</bonusSTA>
+    	<bonusDEX>0</bonusDEX>
+    	<bonusAGI>0</bonusAGI>
+    	<bonusCON>0</bonusCON>
+    	<bonusINT>0</bonusINT>
+    	<effectType>6</effectType>
+    </item>
+    <item>
+        <id>13</id>
+        <name>Sigil of Strenght</name>
+        <description>Gives a good amount of strenght to the wearer.</description>
+    	<price>5000</price>
+    	<bonusSTR>4</bonusSTR>
+    	<bonusSTA>0</bonusSTA>
+    	<bonusDEX>0</bonusDEX>
+    	<bonusAGI>0</bonusAGI>
+    	<bonusCON>0</bonusCON>
+    	<bonusINT>0</bonusINT>
+    	<effectType>0</effectType>
+    </item>
+    <item>
+        <id>14</id>
+        <name>Sigil of Stamina</name>
+        <description>Gives a good amount of stamina to the wearer.</description>
+    	<price>5000</price>
+    	<bonusSTR>0</bonusSTR>
+    	<bonusSTA>4</bonusSTA>
+    	<bonusDEX>0</bonusDEX>
+    	<bonusAGI>0</bonusAGI>
+    	<bonusCON>0</bonusCON>
+    	<bonusINT>0</bonusINT>
+    	<effectType>0</effectType>
+    </item>
+    <item>
+        <id>15</id>
+        <name>Sigil of Dexterity</name>
+        <description>Gives a good amount of dexterity to the wearer.</description>
+    	<price>5000</price>
+    	<bonusSTR>0</bonusSTR>
+    	<bonusSTA>0</bonusSTA>
+    	<bonusDEX>4</bonusDEX>
+    	<bonusAGI>0</bonusAGI>
+    	<bonusCON>0</bonusCON>
+    	<bonusINT>0</bonusINT>
+    	<effectType>0</effectType>
+    </item>
+    <item>
+        <id>16</id>
+        <name>Sigil of Agility</name>
+        <description>Gives a good amount of agility to the wearer.</description>
+    	<price>5000</price>
+    	<bonusSTR>0</bonusSTR>
+    	<bonusSTA>0</bonusSTA>
+    	<bonusDEX>0</bonusDEX>
+    	<bonusAGI>4</bonusAGI>
+    	<bonusCON>0</bonusCON>
+    	<bonusINT>0</bonusINT>
+    	<effectType>0</effectType>
+    </item>
+    <item>
+        <id>17</id>
+        <name>Sigil of Concentration</name>
+        <description>Gives a good amount of concentration to the wearer.</description>
+    	<price>5000</price>
+    	<bonusSTR>0</bonusSTR>
+    	<bonusSTA>0</bonusSTA>
+    	<bonusDEX>0</bonusDEX>
+    	<bonusAGI>0</bonusAGI>
+    	<bonusCON>4</bonusCON>
+    	<bonusINT>0</bonusINT>
+    	<effectType>0</effectType>
+    </item>
+    <item>
+        <id>18</id>
+        <name>Sigil of Intelligence</name>
+        <description>Gives a good amount of Intelligence to the wearer.</description>
+    	<price>5000</price>
+    	<bonusSTR>0</bonusSTR>
+    	<bonusSTA>0</bonusSTA>
+    	<bonusDEX>0</bonusDEX>
+    	<bonusAGI>0</bonusAGI>
+    	<bonusCON>0</bonusCON>
+    	<bonusINT>4</bonusINT>
+    	<effectType>0</effectType>
+    </item>
+        <item>
+        <id>19</id>
+        <name>Sigil of Greater Strenght</name>
+        <description>Gives a huge amount of strenght to the wearer.</description>
+    	<price>10000</price>
+    	<bonusSTR>8</bonusSTR>
+    	<bonusSTA>0</bonusSTA>
+    	<bonusDEX>0</bonusDEX>
+    	<bonusAGI>0</bonusAGI>
+    	<bonusCON>0</bonusCON>
+    	<bonusINT>0</bonusINT>
+    	<effectType>0</effectType>
+    </item>
+    <item>
+        <id>20</id>
+        <name>Sigil of Greater Stamina</name>
+        <description>Gives a huge amount of stamina to the wearer.</description>
+    	<price>10000</price>
+    	<bonusSTR>0</bonusSTR>
+    	<bonusSTA>8</bonusSTA>
+    	<bonusDEX>0</bonusDEX>
+    	<bonusAGI>0</bonusAGI>
+    	<bonusCON>0</bonusCON>
+    	<bonusINT>0</bonusINT>
+    	<effectType>0</effectType>
+    </item>
+    <item>
+        <id>21</id>
+        <name>Sigil of Greater Dexterity</name>
+        <description>Gives a huge amount of dexterity to the wearer.</description>
+    	<price>10000</price>
+    	<bonusSTR>0</bonusSTR>
+    	<bonusSTA>0</bonusSTA>
+    	<bonusDEX>8</bonusDEX>
+    	<bonusAGI>0</bonusAGI>
+    	<bonusCON>0</bonusCON>
+    	<bonusINT>0</bonusINT>
+    	<effectType>0</effectType>
+    </item>
+    <item>
+        <id>22</id>
+        <name>Sigil of Greater Agility</name>
+        <description>Gives a huge amount of agility to the wearer.</description>
+    	<price>10000</price>
+    	<bonusSTR>0</bonusSTR>
+    	<bonusSTA>0</bonusSTA>
+    	<bonusDEX>0</bonusDEX>
+    	<bonusAGI>8</bonusAGI>
+    	<bonusCON>0</bonusCON>
+    	<bonusINT>0</bonusINT>
+    	<effectType>0</effectType>
+    </item>
+    <item>
+        <id>23</id>
+        <name>Sigil of Greater Concentration</name>
+        <description>Gives a huge amount of concentration to the wearer.</description>
+    	<price>10000</price>
+    	<bonusSTR>0</bonusSTR>
+    	<bonusSTA>0</bonusSTA>
+    	<bonusDEX>0</bonusDEX>
+    	<bonusAGI>0</bonusAGI>
+    	<bonusCON>8</bonusCON>
+    	<bonusINT>0</bonusINT>
+    	<effectType>0</effectType>
+    </item>
+    <item>
+        <id>24</id>
+        <name>Sigil of Greater Intelligence</name>
+        <description>Gives a huge amount of Intelligence to the wearer.</description>
+    	<price>10000</price>
+    	<bonusSTR>0</bonusSTR>
+    	<bonusSTA>0</bonusSTA>
+    	<bonusDEX>0</bonusDEX>
+    	<bonusAGI>0</bonusAGI>
+    	<bonusCON>0</bonusCON>
+    	<bonusINT>8</bonusINT>
+    	<effectType>0</effectType>
+    </item>    
+</items>
