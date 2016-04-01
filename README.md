@@ -6,7 +6,7 @@ You can try the v1.3 version here: https://play.google.com/store/apps/details?id
 A endles running game with pseudo-random obsticles writen in pure java using Killobolt framework.
 
 
-Programers : Ideo and Honor
+Programers : Vytautas Božnis and Karolis Simaitis (https://github.com/karka1234/)
 
 Art: Jetrel at opengameart.org
 
